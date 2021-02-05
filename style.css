@@ -54,3 +54,19 @@
   background-color: yellow;
 }
 
+.table {
+  background-color: #40a9e5;
+  color: white;
+}
+
+.margin1 {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.cell {
+  width: 33%;
+}
+
+.table2 {
+  background-color: #b1e5f2;
