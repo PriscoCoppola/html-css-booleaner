@@ -16,7 +16,7 @@
   background-size: 430px;
 }
 
-img {
+.logo {
   height: 50px;
   margin: 45px 150px;
 }
@@ -27,15 +27,25 @@ img {
   margin: 10px auto;
 }
 
+.title {
+  font-size: 32px;
+  margin-top: 20px;
+}
+
 .text1 {
-  color: #808080
+  color: #808080;
 }
 
 #text2 {
-  color: #49b8e9
+  color: #49b8e9;
 }
 
 .text3 {
-  color: #808080
+  color: #808080;
+  font-size:12px;
+  font-style: italic;
 }
 
+#foto {
+  margin-top: 20px;
+}
