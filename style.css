@@ -1,6 +1,11 @@
 
 /* FOOTER */
-body {
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contain {
   background-color: #4e9ff7;
 }
 
@@ -13,6 +18,24 @@ body {
 
 img {
   height: 50px;
-  padding-left: 10%;
-  padding-top: 45px;
+  margin: 45px 150px;
 }
+
+/* MAIN */
+.container {
+  width: 79%;
+  margin: 10px auto;
+}
+
+.text1 {
+  color: #808080
+}
+
+#text2 {
+  color: #49b8e9
+}
+
+.text3 {
+  color: #808080
+}
+
