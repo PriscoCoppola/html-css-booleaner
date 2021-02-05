@@ -1,5 +1,5 @@
 
-/* FOOTER */
+/* HEADER */
 * {
   margin: 0;
   font-family: 'Roboto', sans-serif;
@@ -9,7 +9,7 @@
   background-color: #4e9ff7;
 }
 
-.footer {
+.header {
   width: 100%;
   height: 110px;
   background-image: url("./img/pattern.png");
@@ -46,6 +46,11 @@
   font-style: italic;
 }
 
-#foto {
+.margin {
   margin-top: 20px;
 }
+
+.yellow {
+  background-color: yellow;
+}
+
